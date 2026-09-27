@@ -21,3 +21,4 @@ pyaudio
 speechrecognition
 pyttsx3
 .
+torch
